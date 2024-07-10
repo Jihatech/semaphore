@@ -1,6 +1,6 @@
 ---
 - name: Mise à jour apt
-  hosts: 10.1.0.59
+  hosts: all
   become: true
 
   tasks:
